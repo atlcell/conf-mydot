@@ -1,0 +1,9 @@
+
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanWorkstation\Parameters\AllowInsecureGuestAuth =>
+
+DWORD => 32 bit value 0- 1 netsh advfirewall firewall set rule group="File and Printer Sharing" new enable=Yes
+
+sudo service smbd restart
+
+[globa] max protocol = NT1

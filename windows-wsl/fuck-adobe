@@ -1,0 +1,6 @@
+/mnt/c/Program Files (x86)/Common Files/Adobe$ sudo rm -rf AdobeGCClient/*
+rm -rf OOBE/
+
+AGM*
+Adobe*
+CC*

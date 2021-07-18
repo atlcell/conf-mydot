@@ -1,0 +1,1 @@
+alias pingip="curl ipinfo.io/ip"
